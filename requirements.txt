@@ -1,0 +1,5 @@
+madmom
+librosa==0.4.1
+mir_eval
+pyyaml
+sacred
